@@ -163,3 +163,16 @@ button {
     cursor: pointer;
 }
 /*-------------------------------------- Update CSS End ----------------------------------------------*/
+/*------------------------------------- Footer CSS Start ----------------------------------------------*/
+footer{
+    padding: 16px;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+}
+footer h3{
+    color: orangered;
+}
+footer p{
+    font-size: 14px;
+}
