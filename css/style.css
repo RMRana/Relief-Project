@@ -41,10 +41,8 @@ p{
 .title p{
    margin-bottom: 35px;
 }
-
 /*-------------------------------------- Common CSS End ----------------------------------------------*/
 /*------------------------------------- Bannar CSS Start ----------------------------------------------*/
-
 #bannar-area{
     background-image: url("../images/donation5\ copy.jpg"); 
     background-repeat: no-repeat;
@@ -55,10 +53,8 @@ p{
     text-align: center;
     color: #fff;
 }
-
 /*-------------------------------------- Bannar CSS End ----------------------------------------------*/
 /*------------------------------------- Donate CSS Start ----------------------------------------------*/
-
 .donate-container{
     display: flex;
     justify-content:center;
@@ -117,7 +113,6 @@ input[type="text"]{
 .education-card{
     background-color: #F0FFF0;
 }
-
 /*-------------------------------------- Plan CSS End ----------------------------------------------*/
 /*------------------------------------- Gallery CSS Start ----------------------------------------------*/
 .gallery-container{
@@ -135,10 +130,8 @@ input[type="text"]{
     padding: 10px;
     box-shadow: 0px 0px 4px gray;
 }
-
 /*-------------------------------------- Gallery CSS End ----------------------------------------------*/
 /*------------------------------------- Update CSS Start ----------------------------------------------*/
-
 #update-area form {
     background:#E6E6FA;
     padding: 18px 40px;
